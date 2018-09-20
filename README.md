@@ -3,11 +3,18 @@ A stock analysis for short swing trading in China.（中国A股收盘后的短�
 
 ## This program has 3 fuctions:
 1. Get stock datas from eastmoneny.com.
-  > LHB datas;
+> LHB datas;
 > limit up datas;
 2. Clean up the datas.
 3. Show the chart from the datas.
-  > the distribution of limit up stocks' price;
+> the distribution of limit up stocks' price;
+
+## 程序有三块功能：
+1. 从《东方财富网》获取股票数据。
+  - 龙虎榜数据；
+  - 涨停板数据；
+2. 对获取的数据进行清洗。
+3. 利用图表进行数据展示。
   
 
 
