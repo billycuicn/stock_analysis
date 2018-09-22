@@ -11,7 +11,7 @@ A stock analysis for short swing trading in China.（中国A股收盘后的短�
 
 ## 程序有三块功能：
 1. 从《东方财富网》获取股票数据。
--   龙虎榜数据；
+   -   龙虎榜数据；
   - 涨停板数据；
   
 2. 对获取的数据进行清洗。
